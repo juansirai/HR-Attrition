@@ -15,4 +15,4 @@ Organizations often put a lot of effort into desperate "talent retention" strate
 If you want, I invite you to follow me in this trip, triying to get the first insights about "Why people left their jobs?", and think in ways to don't lose our main value.
 
 ----------
-*Link to the dataset https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset *
+*Link to the dataset https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset*
