@@ -1,5 +1,7 @@
 # HR-Attrition
 *A predictve analysis related with attrition: why are people leaving?*
+![image](https://www.betterworks.com/wp-content/uploads/2020/06/TheBetterWayToQuit.jpg)
+
 
 Organizations are maded of people. Inside the company, we can find individuals with different backgrounds, experiences and with different objetives. 
 Sometimes, what the individual wants for him or her career, is aligned with the organization objetives. In that case, the person is able to pursuit his/her personal objetive, while following the organization one. In other times, the organizational objetive is not aligned with the individual one, so he or she may enter in an internal conflict.
